@@ -1,0 +1,5 @@
+.idea/
+venv/
+headers.txt
+signature.txt
+__pycache__/
